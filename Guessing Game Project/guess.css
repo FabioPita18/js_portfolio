@@ -1,0 +1,11 @@
+#start {
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    top: 40px;
+}
+
+#label {
+    position: absolute;
+    top: 40px;
+}
